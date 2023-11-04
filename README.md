@@ -1,1 +1,1 @@
-# Euler-s-Method
+Euler's method uses the simple formula, to construct the tengent at the point x and obtain the value of y(x+h), whose slope is , In Euler's Method, you can approximat the curve of the solution by the tangent in each interval.
